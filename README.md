@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/KalliMagg/chuck_joke.png)](https://travis-ci.org/KalliMagg/chuck_joke)
+
 [![Build Status](https://travis-ci.org/arnlaugsson/chuck_joke.svg)](https://travis-ci.org/arnlaugsson/chuck_joke)
 
 # chuck_joke
